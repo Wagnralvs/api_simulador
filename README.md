@@ -1,2 +1,2 @@
 # api_simulador
-api json server para simular o bach-end
+api json server para simular o back-end
